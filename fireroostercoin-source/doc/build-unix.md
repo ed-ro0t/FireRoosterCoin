@@ -6,6 +6,7 @@ To Build
 ---------------------
 
 	cd src/
+	mkdir /obj
 	make -f makefile.unix		# Headless fireroostercoin
 
 See [readme-qt.md](readme-qt.md) for instructions on building FireRoosterCoin-Qt, the graphical user interface.
